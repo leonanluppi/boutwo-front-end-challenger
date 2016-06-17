@@ -14,3 +14,9 @@
 #### Pontos extras
 - Importante utilizar tecnicas de otimização para aplicações SPA em especial Angular.js
 - Utilizar infiniteScroll é um diferencial
+
+
+### Helpers
+
+API de Avatar aleatórios: http://avatars.adorable.io/
+Textos aleatórios: http://www.icndb.com/api/
