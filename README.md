@@ -18,5 +18,5 @@
 
 ### Helpers
 
-API de Avatar aleatórios: http://avatars.adorable.io/
-Textos aleatórios: http://www.icndb.com/api/
+- API de Avatar aleatórios: http://avatars.adorable.io/
+- Textos aleatórios: http://www.icndb.com/api/
