@@ -20,3 +20,10 @@
 
 - API de Avatar aleatórios: http://avatars.adorable.io/
 - Textos aleatórios: http://www.icndb.com/api/
+
+### Iniciando a Aplicação
+
+1º npm install
+2º bower install
+3º gulp
+4º gulp serve
