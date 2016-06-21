@@ -1,0 +1,41 @@
+Nome: Jeferson Diniz
+Data: 20/06/2016
+
+Considerações: Ao fazer as requisições dos dados na pagina, percebi que o problema de lentidão veio sem avisar hehe, então resolvi utilizar um recurso do 'ng-infinity-scrool'.
+
+Site: https://sroze.github.io/ngInfiniteScroll/
+Documentação: https://sroze.github.io/ngInfiniteScroll/documentation.html
+
+
+ - API'S UTILIZADAS
+
+ 1º http://api.icndb.com/jokes/random/  - Gera textos aleatorios.
+ 2º http://uinames.com/api/?'
+
+
+ - TECNOLOGIAS
+
+  - Angular.js - Consumação das Api's
+  - Yeoman - Gerar estrutura do projeto
+  - Google Material Design - Recursos para o front end
+
+
+  ITENS PENDENTES
+
+  Eita, a parte de performace não foi implementada, mas com a ajuda de alguem eu conseguiria implementar, referente ao reaproveitamento do sistema de publicações poderia ser utilizado (componentes e diretivas), não implementei, como havia falado estou estudando para ser um Jedi em Angular.js. Na parte de Like eu criei apenas um front, porem podia ser feito o envio para o banco de dados, e toda vez que eu carregar a pagina ele me retornava os likes por posts.
+
+  OBS - Itens Pendentes: Tentei implementar todos esses itens que ficaram pendentes.
+
+
+
+  DIFICULDADES: MANIPULAÇÃO DO INFINITY SCROLL / PERFORMACE - DIRETIVAS E COMPONENTES
+
+
+
+  COMO PRETENDO MELHORAR ?
+
+   - Livros.
+   - Cursos Online.
+   - Consultar colegas de trabalho.
+   - Participar de Meetups
+
